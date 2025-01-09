@@ -1,2 +1,11 @@
 Milliseid etappe hõlmab projekti elutsükkel?
+algatamine, planeerimine, teostamine ja lõpetamine.
 Mis on Gantti diagramm?
+
+Gantti diagramm on graafik, mis visualiseerib projekti ajakava, näidates ülesandeid, nende kestust ja ajastust ajateljel. See aitab jälgida tööde edenemist ja planeerida ressursse tõhusamalt.
+
+
+
+
+
+
