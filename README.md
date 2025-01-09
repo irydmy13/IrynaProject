@@ -1,7 +1,7 @@
 # TA GIT Ulesanned 
 <a name="readme-top"></a>
 
-![image](https://github.com/user-attachments/assets/7a7bdf34-b1c0-42ca-b7dc-db90b6c6009f)
+![image](https://github.com/user-attachments/assets/ef4b91a0-bdc9-4455-ae55-d135e049ae93)
 
 
 ### Vastake küsimustele "Projekti juhtimine"
