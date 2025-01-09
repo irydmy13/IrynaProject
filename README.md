@@ -16,7 +16,7 @@
 * Milline on projektijuhi roll?
 * Mis on kaug-repositoorium?
 
-## TODO
+# TODO
 
 ![image](https://github.com/user-attachments/assets/d47252ea-1148-49cb-ad95-8f6a41476197)
 
@@ -26,25 +26,3 @@
 * Vastake kahele küsimusele teemal "Üldine".
 * Minge sööklasse teed tooma.
 * Jooge teed.
-
-
-
-
-Arvestuse samiseks on vaja teha:
-* Koik GiT Ulesandeid
-* Add
-* Commit
-* Push
-```
-git add .
-git commit  -a -m "commit sisu"
-git push
-```
-
-< a href="#readme-top">"Ulesse"</a>
-
-vaata ka minu konspektid wp-porfolio
-< a href="#https://https://irynadmytrenko24.thkit.ee/wp/" target="_blank">WP link</a>
-This site was built using  [GitHub Pages](https://pages.github.com/)
-
-<img width="423" alt="image" src="https://github.com/user-attachments/assets/0d1ff165-fbbb-4d82-8350-166fae6f0f18" />
