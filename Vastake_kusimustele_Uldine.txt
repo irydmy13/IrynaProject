@@ -2,3 +2,4 @@ Milline on projektijuhi roll?
 Projektijuht on isik, kes vastutab projekti elluviimise, juhtimise ja lõpptulemuse eest.
 
 Mis on kaug-repositoorium?
+Kaug-repositoorium on Git'i repositoorium, mis asub võrgu kaudu kergesti ligipääsetavas kohas, näiteks serveris või pilves, kus arendajad oma tööd teevad.
