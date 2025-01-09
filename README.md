@@ -1,6 +1,35 @@
 # TA GIT Ulesanned 
-< a name="readme-top"></a>
-## TODO list - mida vaja teha:
+<a name="readme-top"></a>
+
+![image](https://github.com/user-attachments/assets/28034d38-c273-4db8-a697-231134f15a30)
+
+
+### Vastake küsimustele "Projekti juhtimine"
+* Milliseid etappe hõlmab projekti elutsükkel?
+* Mis on Gantti diagramm?
+
+### Vastake küsimustele "Versioonihaldussüsteem"
+* Milleks kasutatakse käsku git commit?
+* Kuidas kasutada käsku git merge?
+
+### Vastake küsimustele "Üldine"
+* Milline on projektijuhi roll?
+* Mis on kaug-repositoorium?
+
+## TODO
+
+![image](https://github.com/user-attachments/assets/d47252ea-1148-49cb-ad95-8f6a41476197)
+
+
+* Vastake kahele küsimusele teemal "Projekti juhtimine".
+* Vastake kahele küsimusele teemal "Versioonikontrolli süsteem".
+* Vastake kahele küsimusele teemal "Üldine".
+* Minge sööklasse teed tooma.
+* Jooge teed.
+
+
+
+
 Arvestuse samiseks on vaja teha:
 * Koik GiT Ulesandeid
 * Add
