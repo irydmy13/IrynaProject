@@ -1,2 +1,2 @@
-Milline on projektijuhi roll?
-Mis on kaug-repositoorium?
+Milline on projektijuhi roll? Koordineerib, planeerib ja juhib projekti
+Mis on kaug-repositoorium? Hoiab koodi versioone pilves
