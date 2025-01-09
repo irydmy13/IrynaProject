@@ -1,2 +1,4 @@
 Milline on projektijuhi roll?
+Projektijuht on isik, kes vastutab projekti elluviimise, juhtimise ja lõpptulemuse eest.
+
 Mis on kaug-repositoorium?
