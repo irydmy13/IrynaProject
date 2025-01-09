@@ -2,3 +2,4 @@ Milleks kasutatakse käsku git commit?
 Kui olete teinud muudatused oma tööfailides ja soovite neid versionkontrollis jäädvustada, kasutate käsku git commit.
 
 Kuidas kasutada käsku git merge?
+git merge käsku kasutatakse kahe haru (branch) muutuste ühendamiseks ühte harusse.
