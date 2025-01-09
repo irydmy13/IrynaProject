@@ -1,2 +1,5 @@
-Milleks kasutatakse käsku git commit?
-Kuidas kasutada käsku git merge?
+Milleks kasutatakse käsku git commit? 
+uuendatud failide kommeterimiseks
+
+Kuidas kasutada käsku git merge? 
+koostamiseks oma faili ning merge 
