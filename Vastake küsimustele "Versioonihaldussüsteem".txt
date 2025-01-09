@@ -1,0 +1,2 @@
+Milleks kasutatakse käsku git commit?
+Kuidas kasutada käsku git merge?
