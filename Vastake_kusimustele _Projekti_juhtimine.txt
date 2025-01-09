@@ -3,3 +3,4 @@ Projekti elutsükkel hõlmab kõiki etappe, mille kaudu projekt läbib oma elu j
 Algatamine - Planeerimine - Täideviimine - Jälgimine ja kontroll - Lõpetamine
 
 Mis on Gantti diagramm?
+Gantti diagramm on visuaalne tööriist, mida kasutatakse projektide ajakavaja ülesannete haldamiseks.
