@@ -1,2 +1,5 @@
 Milliseid etappe hõlmab projekti elutsükkel?
+Projekti elutsükkel hõlmab kõiki etappe, mille kaudu projekt läbib oma elu jooksul, alates algusest kuni lõpetemiseni.
+Algatamine - Planeerimine - Täideviimine - Jälgimine ja kontroll - Lõpetamine
+
 Mis on Gantti diagramm?
